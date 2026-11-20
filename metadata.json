@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA",
+  "description": "One World. One Platform. All-in-one Android social media ecosystem combining Home Feed, Reels, Watch, Pulse, Communities, Messaging, and Gemini AI.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
